@@ -1,0 +1,65 @@
+.header, .footer{
+    background-color: rgba(60, 69, 67, 0.6);
+}
+
+.header{
+    border-radius: 15px 15px 0 0;
+    font-size: 1rem;
+}
+
+.header > h1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1.2em;
+    padding: 0.5em 0;
+}
+
+.btn-danger{
+    background-color: rgba(204, 3, 35, 0.5);
+    font-size: 1em;
+    color: #F9C738;
+}
+
+.border{
+    border-radius: 0 0 15px 15px;
+    border-color: #F9C738 !important;
+}
+
+.hero{
+    box-shadow: rgba(60, 69, 67, 0.6) 10px 10px;
+}
+
+.farGalaxy{
+    font-size: 1em;
+    letter-spacing: 0.02em;
+    line-height: 1.7;
+    text-align: justify;
+}
+
+.bottomLeft{
+    border-bottom-left-radius: 15px;
+}
+
+.bottomRight{
+    border-bottom-right-radius: 15px;
+}
+
+/*footer*/
+
+.footer{
+    border-radius: 0 0 15px 15px;
+    height: 4.4em;
+}
+
+.footer .btn{
+    font-size: 0.8em;
+}
+
+.email{
+    color: black;
+    font-size: 1.1em;
+}
+
+
